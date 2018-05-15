@@ -1,0 +1,7 @@
+{
+    "name": "ivan/test",
+    "require": {},
+    "require-dev": {
+        "codeception/codeception": "^2.4"
+    }
+}
